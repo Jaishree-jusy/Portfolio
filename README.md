@@ -1,5 +1,7 @@
 # Jaishree K S — Portfolio
 
+Portfolio Link:https://portfolio-eight-gilt-50.vercel.app/
+
 A premium, minimal, and recruiter-friendly portfolio built with React, Vite, Tailwind CSS, and Framer Motion. Styled with a clean teal-on-neutral palette (`#14B8A6` accent, `#FAFAFA` background) in the spirit of Linear, Vercel, and Stripe.
 
 ## Getting started
